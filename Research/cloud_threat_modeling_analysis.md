@@ -77,3 +77,13 @@ From a Governance, Risk, and Compliance perspective:
 - Improper use of frameworks leads to missed threats
 - Cloud security requires continuous reassessment
 - Combining methodologies improves effectiveness
+
+## Real-World Application
+
+If applied in an enterprise environment, this analysis would support:
+
+- Cloud risk assessments
+- Security control evaluations
+- Vendor risk analysis
+- Compliance readiness (ISO 27001 / NIST)
+
